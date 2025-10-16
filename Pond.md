@@ -2,8 +2,6 @@
 
 ## Código Implementado
 
-### Arquivo: `codigo_arduino.ino`
-
 ```cpp
 // C++ code
 //
@@ -30,14 +28,6 @@ void loop()
    - `delay(1000)`: Aguarda 1000ms (1 segundo)
    - `digitalWrite(LED_BUILTIN, LOW)`: Desliga o LED
    - `delay(1000)`: Aguarda mais 1 segundo
-
-## Componentes Utilizados
-
-- Arduino Uno
-- Protoboard
-- LED (OFF_BOARD)
-- Resistor
-- Ligações elétricas
 
 ## Evidências da Implementação
 
