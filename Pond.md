@@ -35,10 +35,7 @@ void loop()
 
 Aqui está um vídeo demonstrando o funcionamento do pisca-pisca no TinkerCAD:
 
-<video width="600" controls>
-  <source src="tinkercad_blink_video.mp4" type="video/mp4">
-  Seu navegador não suporta vídeos HTML5.
-</video>
+[![Vídeo do Pisca-Pisca](tinkercad_blink_video.mp4)](tinkercad_blink_video.mp4)
 
 
 ### Screenshot do Projeto
